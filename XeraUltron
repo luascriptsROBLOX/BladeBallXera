@@ -1,5 +1,2 @@
-
 setclipboard("https://discord.gg/UKckcbc4DC")
-
-
-game.Players.LocalPlayer:Kick(“Join Discord By pasting the copied link in browser to access script ")
+toclipboard("https://discord.gg/UKckcbc4DC")
