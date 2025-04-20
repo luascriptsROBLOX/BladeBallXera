@@ -1,25 +1,5 @@
---[[ 
-   _  __    _______________    __  ___   
-  | |/ /   /_  __/ ____/   |  /  |/  /   
-  |   /     / / / __/ / /| | / /|_/ /    
- /   |     / / / /___/ ___ |/ /  / /     
-/_/|_|    /_/ /_____/_/  |_/_/  /_/
-
-//● DEVLOPER kokil , XTEAM , XERA ULTRON
-//● DISCORD - https://discord.gg/UKckcbc4DC
-//● OFFICAL WEBSITE - https://xerateam-xyz.vercel.app/
-//● STATUS - online 🟢
-//● HIT AUTOPARRY- WORKS 98% OUT OF 100 [ 90/100 ]
-//● OBFUSCATED - YES ! 
-//● PROTECTED BY - Panda Obfuscator, Lua 5.4.7 :)
-//● Recent Update - [ Sunday , April , 2025 ]
-
-]]--     
 
 setclipboard("https://discord.gg/UKckcbc4DC")
-setclipboard("https://xerateam-xyz.vercel.app/")
 
 
-game.Players.LocalPlayer:Kick(“If Your Reading This Then Your Using The Un PROTECTED script 
-To Use Our Script You can paste the first link in your browser and if you want to join discord then paste 2nd link
-in your browser , we have automatically copied the link and pasted in your clipboard")
+game.Players.LocalPlayer:Kick(“Join Discord By pasting the copied link in browser to access script ")
